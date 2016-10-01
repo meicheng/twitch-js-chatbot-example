@@ -1,4 +1,6 @@
 /*
+    my key: oauth:fgkgy30zu8524bd40x8faxskjqgdw0
+
     This file is what connects to chat and parses messages as they come along. The chat client connects via a 
     Web Socket to Twitch chat. The important part events are onopen and onmessage.
 */
